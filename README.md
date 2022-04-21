@@ -8,7 +8,7 @@ How to use this mod:
 
 1. Download it from this github only, any other source is probably a scam and can get your account stolen.
 2. Make sure you have Forge installed. If not, heres a how to guide for Forge: https://www.youtube.com/watch?v=iPJQ4BgdwWQ
-3. Now, put the mod in your mod folder. The standard path is C:\Users\Name\AppData\Roaming\.minecraft\mods.
+3. Now, put the mod in your mod folder. The standard path is C:\Users\Name\AppData\Roaming\\.minecraft\mods.
 3.5. Be sure to put Skytils (BSMod) in a folder inside the mod folder. Just create a new one and drag it in there.
 4. Now launch minecraft, and you're good to go! Enjoy coins until you cant anymore!
 
