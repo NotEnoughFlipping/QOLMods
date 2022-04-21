@@ -1,6 +1,8 @@
 # QOLMods
 My own programmed QOLMods. Stay tuned for new mods, I will upload up to 1-3 mods per 1-2 months.
 
+The First mod: NOT ENOUGH FLIPPING ------------------------
+
 How to use this mod:
 
 1. Download it from this github only, any other source is probably a scam and can get your account stolen.
@@ -15,3 +17,5 @@ If you're worried its a virus, heres the link to the VirusTotal site, which chec
 
 This is free because it is new. Giving people an oppurtunity to be successfull in SkyBlock. If I see it becomes more popular and gets more users, i will probably make it cost like 4-5m in Skyblock coins
 So, until that day, have fun!
+
+-----------------------------------------------------------
