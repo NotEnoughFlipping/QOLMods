@@ -1,7 +1,8 @@
 # QOLMods
 My own programmed QOLMods. Stay tuned for new mods, I will upload up to 1-3 mods per 1-2 months.
 
-The First mod: NOT ENOUGH FLIPPING ------------------------
+-----------------------------------------------------------
+_NotEnoughFlipping_
 
 How to use this mod:
 
