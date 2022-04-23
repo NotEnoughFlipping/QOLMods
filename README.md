@@ -14,7 +14,7 @@ How to use this mod:
 
 Now, you can play the game normally, but dont miss the messages in the chat, since the lowest BIN for items like Livid Dagger, Necron Armor, Handles, etc..., items that have a lot of sales a day will appear in the chat and you have to click it. You will be redirected to the auction. BE SURE TO EAT A BOOSTER COOKIE!!!!!
 
-If you're worried its a virus, heres the link to the VirusTotal site, which checks files for suspicious code: https://www.virustotal.com/gui/file/e5e082d4fefec49bee9ab8869320f8e686e410773a80186ded4c340b3fc2edb6?nocache=1
+If you're worried its a virus, heres the link to the VirusTotal site, which checks files for suspicious code: https://www.virustotal.com/gui/file/4cca771d49578dc8389c8c4bc3a4f64ea6fd39e8a83492dbe25d74f57b103b2d?nocache=1
 
 This is free because it is new. Giving people an oppurtunity to be successfull in SkyBlock. If I see it becomes more popular and gets more users, i will probably make it cost like 4-5m in Skyblock coins
 So, until that day, have fun!
